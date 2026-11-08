@@ -10,10 +10,8 @@ pageextension 50100 CustomerListExt extends "Customer List"
 {
     trigger OnOpenPage();
     begin
-<<<<<<< HEAD
-        Message('Hello from Branch1');
-=======
+
         Message('hello from main');
->>>>>>> 4d224858d0f6599bbf537ffd380392200053bda4
+
     end;
 }
