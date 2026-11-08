@@ -1,4 +1,4 @@
-page Id MyPage
+page Id MyPage AboutText
 {
     PageType = Card;
     ApplicationArea = All;
